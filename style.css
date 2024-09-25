@@ -1,0 +1,80 @@
+body{
+    background-color: black;
+}
+.sect{
+    margin-right:10px;
+    margin-bottom: 100px;
+}
+
+.see{
+    color: whitesmoke;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.arrow{
+    float: right;
+    margin-left: 3px;
+}
+
+.overlay{
+    position: absolute;
+    size-adjust: 10px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.det{
+    position: absolute;
+    size-adjust: 10px;
+    margin-left: 1400px;
+    margin-top: 780px;
+}
+.search{
+    position: absolute;
+    margin-left:1200px;
+    margin-top: 5px; 
+}
+.gift{
+    position: absolute;
+    margin-left:1240px;
+    margin-top: 5px; 
+    
+}
+.noti{
+    position: absolute;
+    margin-left:1260px;
+    margin-top: 5px; 
+}
+.pro{
+    position: absolute;
+    margin-left:1290px;
+    margin-top: 5px; 
+}
+
+.home{
+    position: absolute;
+    size-adjust: 10px;
+    margin-left:200px ;
+    color:whitesmoke;
+}
+.Shows{
+    position: absolute;
+    size-adjust: 10px;
+    margin-left:250px ;
+    color:whitesmoke;
+}
+.rank{
+    height: 150px;
+    width: 100px;
+    margin-left:10px;
+    margin-bottom: 100px;
+}
+
+.trend{
+    margin-right:10px;
+    margin-bottom: 100px;
+}
+
+.sci{
+    margin-right:10px;
+    margin-bottom: 100px;
+}
